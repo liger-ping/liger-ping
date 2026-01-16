@@ -26,3 +26,15 @@
 </tr></td>
 
 <tr><td>
+
+<tr><td>
+
+### 📃 Recent Blog
+
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/liger-ping/liger-ping/assets/images/astronaut.png" />
+
+<!-- feed start -->
+
+<!-- feed end -->
+
+</td></tr>
