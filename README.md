@@ -4,6 +4,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/liger-ping/liger-ping/assets/images/developer.svg" height="225px" />
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
 </picture>
 
 
